@@ -1,4 +1,3 @@
-import { Lightbulb } from "lucide-react"
 
 export default function Impact() {
   return (
